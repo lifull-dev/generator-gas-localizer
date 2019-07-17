@@ -30,8 +30,7 @@
     "yo": "^2.0.6",
     "yosay": "^2.0.2"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "repository": "git@gitlab.dev.nxin.jp:npm/generator-gas-localizer.git",
   "license": "MIT"
 }
