@@ -1,0 +1,26 @@
+{
+  "name": "<%= name %>",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "setup": "node tasks/setup.js",
+    "token": "node tasks/token.js",
+    "watch": "node tasks/watch.js",
+    "update": "node tasks/update.js",
+    "livereload": "node tasks/livereload.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "googleapis": "^39.2.0",
+    "livereload": "^0.7.0",
+    "open": "^6.3.0",
+    "prompts": "^2.1.0",
+    "readline": "^1.3.0",
+    "touch": "^3.1.0",
+    "watch": "^1.0.2",
+    "yosay": "^2.0.2"
+  }
+}
