@@ -8,7 +8,7 @@ First, install [Yeoman](http://yeoman.io) and generator-gas-localizer using [npm
 
 ```bash
 npm install -g yo
-git clone git@gitlab.dev.nxin.jp:npm/generator-gas-localizer.git
+git clone git@github.com:lifull-dev/generator-gas-localizer.git
 cd generator-gas-localizer
 npm install
 npm link
